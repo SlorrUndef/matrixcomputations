@@ -1,0 +1,1 @@
+void InvMatrix(double *a, double *b, double *x, int n, int rank, int p);
